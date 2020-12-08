@@ -9,7 +9,7 @@
 export default {
   data () {
     return {
-      opts: ['is-contacts', 'is-staff-schedule', 'is-note-category'],
+      opts: ['is-staff-schedule', 'is-note-category'],
       type: ''
     }
   },
