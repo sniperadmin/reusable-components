@@ -5,24 +5,9 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### runs FE documentation for reusable components
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run styleguide
 ```
 
 ### Customize configuration
