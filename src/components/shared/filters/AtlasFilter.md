@@ -1,3 +1,7 @@
+### This component generates a filter query:
+This query param(s) will be used latewr if you would like to
+inject them into your ajax request
+
 ```vue
 <template>
   <b-container>
