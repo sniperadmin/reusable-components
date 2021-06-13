@@ -11,10 +11,12 @@
     "styleguide:build": "vue-cli-service styleguidist:build"
   },
   "dependencies": {
+    "babel-jest": "^27.0.2",
     "bootstrap-vue": "^2.18.1",
     "core-js": "^3.6.5",
     "vee-validate": "^3.4.3",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-jest": "^3.0.7"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

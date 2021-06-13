@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1623544770080" clover="3.2.0">
+  <project timestamp="1623544770080" name="All files">
+    <metrics statements="42" coveredstatements="38" conditionals="15" coveredconditionals="10" methods="22" coveredmethods="21" elements="79" coveredelements="69" complexity="0" loc="42" ncloc="42" packages="5" files="5" classes="5"/>
+    <package name="card">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="AtlasCard.vue" path="C:\Users\Nasr\Desktop\reusable-components\src\components\shared\card\AtlasCard.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="24" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="filters">
+      <metrics statements="22" coveredstatements="19" conditionals="10" coveredconditionals="6" methods="6" coveredmethods="6"/>
+      <file name="AtlasFilter.vue" path="C:\Users\Nasr\Desktop\reusable-components\src\components\shared\filters\AtlasFilter.vue">
+        <metrics statements="22" coveredstatements="19" conditionals="10" coveredconditionals="6" methods="6" coveredmethods="6"/>
+        <line num="188" count="8" type="stmt"/>
+        <line num="274" count="8" type="stmt"/>
+        <line num="278" count="3" type="stmt"/>
+        <line num="279" count="3" type="stmt"/>
+        <line num="281" count="3" type="stmt"/>
+        <line num="283" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="285" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="286" count="0" type="stmt"/>
+        <line num="288" count="3" type="stmt"/>
+        <line num="289" count="3" type="stmt"/>
+        <line num="294" count="3" type="stmt"/>
+        <line num="299" count="3" type="stmt"/>
+        <line num="300" count="3" type="stmt"/>
+        <line num="314" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="315" count="0" type="stmt"/>
+        <line num="316" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="317" count="0" type="stmt"/>
+        <line num="318" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="319" count="2" type="stmt"/>
+        <line num="323" count="11" type="stmt"/>
+        <line num="329" count="11" type="stmt"/>
+        <line num="337" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="forms">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="AtlasValidationForm.vue" path="C:\Users\Nasr\Desktop\reusable-components\src\components\shared\forms\AtlasValidationForm.vue">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="inputs">
+      <metrics statements="7" coveredstatements="6" conditionals="3" coveredconditionals="2" methods="6" coveredmethods="5"/>
+      <file name="AtlasInput.vue" path="C:\Users\Nasr\Desktop\reusable-components\src\components\shared\inputs\AtlasInput.vue">
+        <metrics statements="7" coveredstatements="6" conditionals="3" coveredconditionals="2" methods="6" coveredmethods="5"/>
+        <line num="128" count="1" type="stmt"/>
+        <line num="250" count="6" type="stmt"/>
+        <line num="299" count="8" type="stmt"/>
+        <line num="303" count="8" type="stmt"/>
+        <line num="309" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="316" count="1" type="stmt"/>
+        <line num="323" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="table">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+      <file name="AtlasTable.vue" path="C:\Users\Nasr\Desktop\reusable-components\src\components\shared\table\AtlasTable.vue">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+        <line num="434" count="11" type="stmt"/>
+        <line num="450" count="3" type="stmt"/>
+        <line num="453" count="2" type="stmt"/>
+        <line num="459" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="467" count="11" type="stmt"/>
+        <line num="473" count="1" type="stmt"/>
+        <line num="474" count="1" type="stmt"/>
+        <line num="477" count="1" type="stmt"/>
+        <line num="482" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
